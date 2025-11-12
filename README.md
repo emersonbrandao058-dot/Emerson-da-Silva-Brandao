@@ -28,7 +28,8 @@ Aqui estão alguns projetos que estou desenvolvendo e aprendendo:
 ## 📫 Contato
 
 - GitHub: [emersonbrandao058-dot](https://github.com/emersonbrandao058-dot)  
-- LinkedIn: *adicione seu link aqui*  
+- LinkedIn: www.linkedin.com/in/emerson-brandao-b33839337
+
 
 ---
 
